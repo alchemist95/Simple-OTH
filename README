@@ -1,2 +1,7 @@
 Welcome to the simplest OTH 
 
+Edit public/question.txt and public/answer.txt accordingly 
+
+Run rake db:reset
+
+Run the server
